@@ -1,0 +1,228 @@
+46.46.56.64	1080	Russian Federation  Artyom	
+
+678 мс
+	Socks 5	Высокая
+195.98.77.179	1080	Russian Federation  Voronezh	
+
+61 мс
+	Socks 5	Высокая
+192.111.134.10	4145	United States  Los Angeles	
+
+380 мс
+	Не прошёл проверку
+194.182.187.78	1080	Austria  Vienna	
+
+327 мс
+	Socks 5	Высокая
+199.102.105.242	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+192.252.220.92	17328	United States  	
+
+380 мс
+	Не прошёл проверку
+184.170.245.148	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+192.252.220.89	4145	United States  	
+
+1035 мс
+	Socks 4	Высокая
+89.145.162.81	1080	Germany  Frankfurt am Main	
+
+253 мс
+	Socks 5	Высокая
+85.113.43.181	1080	Russian Federation  Samara	
+
+380 мс
+	Не прошёл проверку
+5.180.19.209	1080	Russian Federation  Rostov-on-Don	
+
+381 мс
+	Socks 5	Высокая
+103.130.183.165	8199	Indonesia  	
+
+380 мс
+	Не прошёл проверку
+138.68.60.8	1080	United States  Santa Clara	
+
+380 мс
+	Не прошёл проверку
+81.28.169.246	1080	Russian Federation  	
+
+99 мс
+	Socks 5	Высокая
+103.174.178.139	2016	Indonesia  Jember	
+
+380 мс
+	Не прошёл проверку
+46.164.226.252	1080	Russian Federation  Voronezh	
+
+72 мс
+	Socks 5	Высокая
+194.182.178.90	1080	Bulgaria  Sofia	
+
+957 мс
+	Socks 5	Высокая
+176.99.2.43	1080	Russian Federation  	
+
+361 мс
+	Socks 4	Высокая
+209.97.150.167	1080	United States  Clifton	
+
+380 мс
+	Не прошёл проверку
+139.59.1.14	1080	India  Bengaluru	
+
+2308 мс
+	Socks 5	Высокая
+195.98.79.58	1080	Russian Federation  Voronezh	
+
+58 мс
+	Socks 5	Высокая
+66.42.224.229	41679	United States  Cincinnati	
+
+1980 мс
+	Socks 4	Высокая
+5.39.69.35	47820	France  Saint-Maur-des-Foss?s	
+
+380 мс
+	Не прошёл проверку
+72.49.49.11	31034	United States  Cincinnati	
+
+380 мс
+	Не прошёл проверку
+199.204.248.188	34735	United States  	
+
+380 мс
+	Не прошёл проверку
+34.124.190.108	8080	Singapore  Singapore	
+
+1847 мс
+	Socks 4	Высокая
+89.208.32.234	1080	Russian Federation  	
+
+7 мс
+	Socks 5	Высокая
+5.228.247.160	1080	Russian Federation  Moscow	
+
+56 мс
+	Socks 5	Высокая
+194.190.169.197	3701	Russian Federation  Moscow	
+
+3765 мс
+	Socks 4/5	Высокая
+68.71.249.153	48606	United States  	
+
+380 мс
+	Не прошёл проверку
+199.58.185.9	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+68.71.247.130	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+208.109.14.49	31085	Singapore  Singapore	
+
+380 мс
+	Не прошёл проверку
+94.158.155.138	58903	Ukraine  Odesa	
+
+380 мс
+	Не прошёл проверку
+107.181.168.145	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+104.37.135.145	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+188.165.220.50	62878	France  	
+
+380 мс
+	Не прошёл проверку
+212.55.99.157	1080	Russian Federation  	
+
+394 мс
+	Socks 5	Высокая
+192.252.208.70	14282	United States  	
+
+380 мс
+	Не прошёл проверку
+199.102.104.70	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+142.54.226.214	4145	United States  	
+
+380 мс
+	Не прошёл проверку
+142.54.229.249	4145	United States  	
+
+1033 мс
+	Socks 4/5	Высокая
+192.111.135.17	18302	United States  Atlanta	
+
+380 мс
+	Не прошёл проверку
+103.83.81.105	55665	India  	
+
+380 мс
+	Проверяем	 
+69.61.200.104	36181	United States  Cincinnati	
+
+4079 мс
+	Socks 5	Высокая
+192.111.139.165	4145	Canada  Mississauga	
+
+380 мс
+	Не прошёл проверку
+51.75.126.150	22712	France  	
+
+380 мс
+	Проверяем	 
+192.252.208.67	14287	United States  	
+
+380 мс
+	Не прошёл проверку
+93.184.4.254	1080	Palestinian Territory  	
+
+380 мс
+	Не прошёл проверку
+5.39.69.35	46544	France  Saint-Maur-des-Foss?s	
+
+380 мс
+	Не прошёл проверку
+46.8.33.220	1080	Russian Federation  Mikhaylovka	
+
+380 мс
+	Не прошёл проверку
+5.39.69.35	46682	France  Saint-Maur-des-Foss?s	
+
+380 мс
+	Не прошёл проверку
+89.148.195.249	1080	Russian Federation  Perm	
+
+380 мс
+	Не прошёл проверку
+5.39.69.35	52176	France  Saint-Maur-des-Foss?s	
+
+380 мс
+	Не прошёл проверку
+212.33.242.249	1080	Russian Federation  Perm	
+
+380 мс
+	Не прошёл проверку
+51.75.126.150	49902	France  	
+
+3109 мс
+	Socks 5	Высокая
+67.201.33.10	25283	United States  	
+
+1030 мс
+	Socks 4
