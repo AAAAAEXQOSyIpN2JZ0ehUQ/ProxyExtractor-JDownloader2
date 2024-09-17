@@ -6,9 +6,6 @@
 #   GITHUB OFICIAL:           https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2 
 #====================================================
 
-# https://hmy.name/proxy-list/
-# https://hide.mn/es/proxy-list/
-
 # Definir colores
 $green = [System.ConsoleColor]::Green
 $reset = [System.ConsoleColor]::White
