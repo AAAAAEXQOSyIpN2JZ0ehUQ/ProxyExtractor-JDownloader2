@@ -148,42 +148,37 @@ function MostrarMenu {
     echo -e "${cyan}2.${reset} HTTPS"
     echo -e "${cyan}3.${reset} SOCKS4"
     echo -e "${cyan}4.${reset} SOCKS5"
-    echo -e "${cyan}5.${reset} SOCKS4A"
-    echo -e "${cyan}6.${reset} Salir\n"
+    echo -e "${cyan}5.${reset} SOCKS4A\n"
     read -rp "Ingrese el número de opción: " opcion
 }
 
 # Convertir proxies al formato de JDownloader
 function ConvertirProxies {
-    while true; do
-        MostrarMenu
-        
-        case $opcion in
-            1) prefijo="http" ;;
-            2) prefijo="https" ;;
-            3) prefijo="socks4" ;;
-            4) prefijo="socks5" ;;
-            5) prefijo="socks4a" ;;
-            6) echo -e "\n${info} Saliendo..."; exit 0 ;;
-            *) echo -e "\n${error} Opción no válida."; continue ;;
-        esac
+    MostrarMenu
+    
+    case $opcion in
+        1) prefijo="http" ;;
+        2) prefijo="https" ;;
+        3) prefijo="socks4" ;;
+        4) prefijo="socks5" ;;
+        5) prefijo="socks4a" ;;
+        *) echo -e "\n${error} Opción no válida."; exit 1 ;;
+    esac
 
-        if [[ ! -f "$archivoProxies" ]]; then
-            echo -e "\n${error} El archivo '${cyan}$archivoProxies${reset}' no existe. Asegúrese de haber procesado proxies correctamente."
-            exit 1
-        fi
+    if [[ ! -f "$archivoProxies" ]]; then
+        echo -e "\n${error} El archivo '${cyan}$archivoProxies${reset}' no existe. Asegúrese de haber procesado proxies correctamente."
+        exit 1
+    fi
 
-        proxiesFormateados=()
+    proxiesFormateados=()
 
-        while IFS= read -r proxy; do
-            proxiesFormateados+=("${prefijo}://${proxy}")
-        done < "$archivoProxies"
+    while IFS= read -r proxy; do
+        proxiesFormateados+=("${prefijo}://${proxy}")
+    done < "$archivoProxies"
 
-        # Guardar proxies formateados en el archivo
-        printf "%s\n" "${proxiesFormateados[@]}" > "$archivoJDownloader"
-        echo -e "\n${checkmark} Proxies transformados y guardados en '${cyan}$archivoJDownloader${reset}'."
-        break
-    done
+    # Guardar proxies formateados en el archivo
+    printf "%s\n" "${proxiesFormateados[@]}" > "$archivoJDownloader"
+    echo -e "\n${checkmark} Proxies transformados y guardados en '${cyan}$archivoJDownloader${reset}'."
 }
 
 # Ejecutar las funciones
