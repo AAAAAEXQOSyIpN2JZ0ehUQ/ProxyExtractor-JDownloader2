@@ -10,6 +10,10 @@ en un formato fácilmente utilizable por JDownloader 2.
 
 ### :computer: Instalación
 
+### En Windows:
+
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2/blob/main/Imagenes/ProxyExtractor-JDownloader2-Windows.png)
+
 Para instalar y ejecutar el script Extractor de Proxies para JDownloader 2, sigue estos pasos:
 
 1. Descarga el archivo ZIP del repositorio:
@@ -23,8 +27,6 @@ Para instalar y ejecutar el script Extractor de Proxies para JDownloader 2, sigu
 ## :rocket: Modo de Uso
 
 Sigue estos pasos para ejecutar el script.
-
-### En Windows:
 
 1. Navega al directorio del script Windows.
 
@@ -44,6 +46,8 @@ Sigue estos pasos para ejecutar el script.
 
 ### En Linux:
 
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2/blob/main/Imagenes/ProxyExtractor-JDownloader2-Linux.png)
+
 ```bash
 sudo rm -rf ProxyExtractor-JDownloader2
 sudo git clone https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2.git
@@ -54,7 +58,9 @@ ls -lthas
 
 1. Navega al directorio del script Linux:
 
-  Accede a la carpeta donde descomprimiste el archivo ZIP.
+  Accede a la carpeta donde descargaste el script.
+
+## :rocket: Modo de Uso
 
 2. Ejecuta el script:
 
