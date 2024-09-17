@@ -3,10 +3,13 @@
 # Extractor de Proxies para JDownloader 2 :octocat: 
 
 ## :information_source: Descripción
-Extractor de Proxies para JDownloader 2 es un script en PowerShell y Bash diseñado 
-para extraer proxies desde un archivo y convertirlos a formatos compatibles con 
-JDownloader 2. Este script es útil para organizar y transformar listas de proxies 
-en un formato fácilmente utilizable por JDownloader 2.
+Extractor de Proxies para [JDownloader 2](https://jdownloader.org/es/download/index) es una herramienta eficiente diseñada en PowerShell y Bash para automatizar la extracción y conversión de listas de proxies, haciéndolas compatibles con JDownloader 2. Este script simplifica el proceso de gestionar grandes volúmenes de proxies, transformándolos en un formato que JDownloader puede utilizar directamente, permitiendo la descarga más rápida y anónima a través de proxies.
+
+Para obtener listas de proxies actualizadas y confiables, se recomienda extraerlas de sitios como:
+- [hmy.name - Lista de Proxies](https://hmy.name/proxy-list/)
+- [hide.mn - Lista de Proxies](https://hide.mn/es/proxy-list/)
+
+Estas fuentes proporcionan una amplia gama de proxies que puedes transformar y cargar fácilmente en JDownloader 2 con este script, optimizando tu experiencia de descarga con mayor privacidad y anonimato.
 
 ### :computer: Instalación
 
