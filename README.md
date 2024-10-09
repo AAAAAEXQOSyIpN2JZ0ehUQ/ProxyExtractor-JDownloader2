@@ -147,6 +147,6 @@ archivo `GetProxies_JDownloader.ps1` en Windows y `Proxies_JDownloader.sh` en Li
 :warning: Disclaimer: Este script es solo para uso educativo y personal. No lo utilices para acceder a proxies sin autorización.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/Wifite-Utility) - Desarrollador Proxy Extractor JDownloader 2
+* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2) - Desarrollador Proxy Extractor JDownloader 2
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
