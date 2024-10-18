@@ -1,6 +1,6 @@
 #====================================================
 #   SCRIPT:                   Extractor de Proxies para JDownloader 2
-#   DESARROLLADO POR:         JONY RIVERA (Dzhoni_dev) 
+#   DESARROLLADO POR:         Jony Rivera (Dzhoni)
 #   FECHA DE ACTUALIZACIÓN:   09-09-2024 
 #   CONTACTO TELEGRAM:        https://t.me/Dzhoni_dev 
 #   GITHUB OFICIAL:           https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2 
@@ -163,7 +163,7 @@ $GreenColor = "Green"
 
     # Cambiar al color de reset
     $host.UI.RawUI.ForegroundColor = $ResetColor
-    Write-Host "`nVersion coded by: Dzhoni_dev`n"
+    Write-Host "`nVersion codificada por: Jony Rivera (Dzhoni)`n"
 }
 
 # Función para escribir mensajes con color
