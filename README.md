@@ -54,7 +54,7 @@ sudo rm -rf ProxyExtractor-JDownloader2
 sudo git clone https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2.git
 sudo chmod +x ProxyExtractor-JDownloader2/Linux/*
 cd ProxyExtractor-JDownloader2/Linux
-ls -lthas
+ls -ltha
 ```
 
 1. Navega al directorio del script Linux:
