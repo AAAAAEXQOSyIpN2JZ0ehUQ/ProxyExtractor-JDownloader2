@@ -97,14 +97,6 @@ socks5://89.145.162.81:1080
 socks5://67.201.33.10:25283
 ```
 
-## :warning: Advertencias
-
-Uso Responsable: Este script está diseñado para ser utilizado en redes y sistemas para los que tienes permiso. 
-No lo utilices para actividades no autorizadas.
-
-Seguridad: Maneja el archivo proxies_jdownloader.txt con cuidado y elimínalo si no es necesario para 
-evitar que terceros accedan a la información.
-
 ## :star2: Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto o encuentras 
@@ -144,9 +136,14 @@ archivo `GetProxies_JDownloader.ps1` en Windows y `Proxies_JDownloader.sh` en Li
 | :file_folder:    | Windows             | Carpeta principal para ejecutar en Windows |
 | :file_folder:    | Linux               | Carpeta principal para ejecutar en Linux   |
 
-:warning: Disclaimer: Este script es solo para uso educativo y personal. No lo utilices para acceder a proxies sin autorización.
+## :warning: Advertencias 
+
+Uso Responsable: Este script está diseñado para ser utilizado en redes y sistemas para los que tienes permiso. 
+No lo utilices para actividades no autorizadas.
+
+Seguridad: Este script es solo para uso educativo y personal. No lo utilices para acceder a proxies sin autorización.
 
 ## :email: Contacto 
-* :busts_in_silhouette: **Dzhoni_dev**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2) - Desarrollador Proxy Extractor JDownloader 2
+* :busts_in_silhouette: **Dzhoni**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2) - Desarrollador Proxy Extractor JDownloader 2
 
 ☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
