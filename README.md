@@ -136,7 +136,7 @@ archivo `GetProxies_JDownloader.ps1` en Windows y `Proxies_JDownloader.sh` en Li
 | :file_folder:    | Windows             | Carpeta principal para ejecutar en Windows |
 | :file_folder:    | Linux               | Carpeta principal para ejecutar en Linux   |
 
-## :warning: Advertencias s
+## :warning: Advertencias 
 
 Uso Responsable: Este script está diseñado para ser utilizado en redes y sistemas para los que tienes permiso. 
 No lo utilices para actividades no autorizadas.
