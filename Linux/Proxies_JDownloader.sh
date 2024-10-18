@@ -1,7 +1,7 @@
 #!/bin/bash
 #====================================================
 #   SCRIPT:                   Extractor de Proxies para JDownloader 2
-#   DESARROLLADO POR:         JONY RIVERA (Dzhoni_dev) 
+#   DESARROLLADO POR:         Jony Rivera (Dzhoni)
 #   FECHA DE ACTUALIZACIÓN:   09-09-2024 
 #   CONTACTO TELEGRAM:        https://t.me/Dzhoni_dev 
 #   GITHUB OFICIAL:           https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2 
@@ -86,7 +86,7 @@ function MostrarBanner {
     echo -e " /ooooooooooooooooooooooo/ /             "
     echo -e "/C=_____________________/_/ \n           "
     
-    echo -e "Version coded by: Dzhoni_dev ${reset}\n"
+    echo -e "Version codificada por: Jony Rivera (Dzhoni) ${reset}\n"
 }
 
 # Crear la carpeta si no existe
