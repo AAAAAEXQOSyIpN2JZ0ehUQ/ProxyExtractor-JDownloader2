@@ -136,12 +136,13 @@ archivo `GetProxies_JDownloader.ps1` en Windows y `Proxies_JDownloader.sh` en Li
 | :file_folder:    | Windows             | Carpeta principal para ejecutar en Windows |
 | :file_folder:    | Linux               | Carpeta principal para ejecutar en Linux   |
 
-## :warning: Advertencias 
+## :star2: Contribuciones
 
-Uso Responsable: Este script está diseñado para ser utilizado en redes y sistemas para los que tienes permiso. 
-No lo utilices para actividades no autorizadas.
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este script o encuentras algún problema, siéntete libre de abrir un *pull request* o *issue*.
 
-Seguridad: Este script es solo para uso educativo y personal. No lo utilices para acceder a proxies sin autorización.
+## :warning: Advertencias
+
+- Uso Responsable: Este script está diseñado para ser utilizado en dispositivos y redes que te pertenecen o para las que tienes permiso de uso. No lo utilices para actividades no autorizadas.
 
 ## :email: Contacto 
 * :busts_in_silhouette: **Dzhoni**: [GitHub](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ProxyExtractor-JDownloader2) - Desarrollador Proxy Extractor JDownloader 2
